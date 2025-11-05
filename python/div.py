@@ -1,0 +1,1 @@
+print("divissible function in div.py")
